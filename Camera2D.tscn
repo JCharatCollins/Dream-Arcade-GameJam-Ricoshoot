@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Camera2D.gd" type="Script" id=1]
+
+[node name="Camera2D" type="Camera2D"]
+offset = Vector2( 0, -200 )
+current = true
+editor_draw_limits = true
+script = ExtResource( 1 )

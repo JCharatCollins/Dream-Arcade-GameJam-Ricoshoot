@@ -1,0 +1,17 @@
+
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+*.png
+*.png.import
+*.wav
+*.wav.import
+
+# Mono-specific ignores
+.mono/
+*.wav
+*.import
+*.import
+*.wav
+*.ttf
